@@ -46,7 +46,7 @@ class AddOccasionActivity : AppCompatActivity() {
                 today.dayOfMonth
             ).show()
         }
-
++
         // ---- Save button ----
         findViewById<Button>(R.id.btnSave).setOnClickListener {
 
